@@ -13,7 +13,8 @@ All basic functionality has been added. In the future, I plan to add the followi
 - Currently running as a weekly cronjob, move to hosting away from my local machine
 
 # Screenshots
-![screenshot](images/screenshots/screenshot.png)
+![screenshot](images/screenshots/screenshot1.png)
+![screenshot](images/screenshots/screenshot2.png)
 
 # Tech
 **Built With**
