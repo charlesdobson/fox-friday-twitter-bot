@@ -20,4 +20,4 @@ All basic functionality has been added. In the future, I plan to add the followi
 - Python
 
 # License
-MIT © Charles Dobson
+[MIT](LICENSE) © Charles Dobson
