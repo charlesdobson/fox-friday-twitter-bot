@@ -14,7 +14,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
 # Change to images folder
-os.chdir('images/foxes')
+os.chdir('/Users/charlie/documents/projects/fox-friday-twitter-bot/images/foxes')
 
 # Loop through images
 for image in os.listdir('.'):
